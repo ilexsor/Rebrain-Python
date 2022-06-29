@@ -1,8 +1,9 @@
 from django.contrib import admin
 from django.urls import path, include
-from final_config import metrics_collector
+
 
 urlpatterns = [
+    path('', include('metrics_collector.urls')),
     path('admin/', admin.site.urls),
-    path('api/', include(metrics_collector.urls))
+    path('api/', include('metrics_collector.urls'))
 ]

@@ -1,3 +1,8 @@
 from django.contrib import admin
+from .models import Client, Metrics
 
-# Register your models here.
+
+@admin.register(Client)
+class ClientAdmin(admin.ModelAdmin):
+    list_display = ('ip_address', 'name', 'description')
+

@@ -1,0 +1,17 @@
+June 29 21:00:51 - INFO - Start program
+June 29 21:00:51 - INFO - Connect to server, get clients
+June 29 21:00:51 - INFO - Client with ip 192.168.1.42 already registered
+June 29 21:00:51 - INFO - New metrics are collected {'host_info': 'System: Linux, Host: zion, IP: 192.168.1.42', 'disk_info': 'Device: /dev/sda5, Mount point: /, File System: ext4, Total: 124957376512, Used: 107189624832', 'memory_info': 'Total: 8155537408, Used: 4563746816, Percent: 63.9', 'cpu_info': 'Cores: 4, Freq: 2512.95375', 'load_avg': 'Load 1: 0.73, Load 5: 0.65, Load 15: 0.71'}
+June 29 21:00:51 - INFO - Logs from ip: 192.168.1.42 are sent
+June 29 21:00:53 - INFO - New metrics are collected {'host_info': 'System: Linux, Host: zion, IP: 192.168.1.42', 'disk_info': 'Device: /dev/sda5, Mount point: /, File System: ext4, Total: 124957376512, Used: 107189628928', 'memory_info': 'Total: 8155537408, Used: 4566429696, Percent: 64.0', 'cpu_info': 'Cores: 4, Freq: 2286.545', 'load_avg': 'Load 1: 0.73, Load 5: 0.65, Load 15: 0.71'}
+June 29 21:00:53 - INFO - Logs from ip: 192.168.1.42 are sent
+June 29 21:00:55 - INFO - New metrics are collected {'host_info': 'System: Linux, Host: zion, IP: 192.168.1.42', 'disk_info': 'Device: /dev/sda5, Mount point: /, File System: ext4, Total: 124957376512, Used: 107189587968', 'memory_info': 'Total: 8155537408, Used: 4566192128, Percent: 64.0', 'cpu_info': 'Cores: 4, Freq: 1762.9915', 'load_avg': 'Load 1: 0.67, Load 5: 0.64, Load 15: 0.71'}
+June 29 21:00:55 - INFO - Logs from ip: 192.168.1.42 are sent
+June 29 21:00:57 - INFO - New metrics are collected {'host_info': 'System: Linux, Host: zion, IP: 192.168.1.42', 'disk_info': 'Device: /dev/sda5, Mount point: /, File System: ext4, Total: 124957376512, Used: 107189587968', 'memory_info': 'Total: 8155537408, Used: 4566753280, Percent: 63.9', 'cpu_info': 'Cores: 4, Freq: 1633.12775', 'load_avg': 'Load 1: 0.67, Load 5: 0.64, Load 15: 0.71'}
+June 29 21:00:57 - INFO - Logs from ip: 192.168.1.42 are sent
+June 29 21:00:59 - INFO - New metrics are collected {'host_info': 'System: Linux, Host: zion, IP: 192.168.1.42', 'disk_info': 'Device: /dev/sda5, Mount point: /, File System: ext4, Total: 124957376512, Used: 107189944320', 'memory_info': 'Total: 8155537408, Used: 4567609344, Percent: 63.8', 'cpu_info': 'Cores: 4, Freq: 1613.9940000000001', 'load_avg': 'Load 1: 0.67, Load 5: 0.64, Load 15: 0.71'}
+June 29 21:00:59 - INFO - Logs from ip: 192.168.1.42 are sent
+June 29 21:01:01 - INFO - New metrics are collected {'host_info': 'System: Linux, Host: zion, IP: 192.168.1.42', 'disk_info': 'Device: /dev/sda5, Mount point: /, File System: ext4, Total: 124957376512, Used: 107189960704', 'memory_info': 'Total: 8155537408, Used: 4567154688, Percent: 64.0', 'cpu_info': 'Cores: 4, Freq: 1711.6245', 'load_avg': 'Load 1: 0.62, Load 5: 0.63, Load 15: 0.71'}
+June 29 21:01:01 - INFO - Logs from ip: 192.168.1.42 are sent
+June 29 21:01:03 - INFO - New metrics are collected {'host_info': 'System: Linux, Host: zion, IP: 192.168.1.42', 'disk_info': 'Device: /dev/sda5, Mount point: /, File System: ext4, Total: 124957376512, Used: 107189960704', 'memory_info': 'Total: 8155537408, Used: 4567195648, Percent: 63.9', 'cpu_info': 'Cores: 4, Freq: 1702.3365', 'load_avg': 'Load 1: 0.62, Load 5: 0.63, Load 15: 0.71'}
+June 29 21:01:03 - INFO - Logs from ip: 192.168.1.42 are sent
